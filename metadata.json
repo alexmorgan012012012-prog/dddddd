@@ -1,0 +1,8 @@
+{
+  "name": "RYVO Digital Agency",
+  "description": "We Build. We Automate. We Create. Digital experiences engineered for growth — high-performance websites, AI automation, video editing, and digital marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
